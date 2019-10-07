@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cryptoguadagno",
-    "currentPage": "page7.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -178,7 +178,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -313,7 +313,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -448,7 +448,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -647,7 +647,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -825,7 +825,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -960,7 +960,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1087,6 +1087,14 @@
           "_params": {}
         }
       ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Crypto Bond",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
